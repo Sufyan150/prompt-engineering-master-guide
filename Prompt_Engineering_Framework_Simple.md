@@ -179,3 +179,13 @@ For complex or personal tasks — when accuracy and personalization matter.
 
 ## 🧠 Combined Example
 
+
+---
+
+## 💬 Final Tip
+> “A great prompt is like a bridge between human intent and machine intelligence. The clearer your side is, the stronger the bridge becomes.”
+
+---
+
+**Created by [Sufyan Abbasi](https://github.com/Sufyan150)**  
+_Open Source for AI Learners Worldwide 🌍_
